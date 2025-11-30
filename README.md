@@ -28,9 +28,6 @@ Experienced Software Engineer specializing in **REST API development**, **WebSoc
 <div/>
 
 ## My Contributions
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manishaac2002" />
-</a>
 <a href="https://github.com/manishaac2002">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishaac2002&layout=compact&langs_count=8&card_width=320" />
 </a>
